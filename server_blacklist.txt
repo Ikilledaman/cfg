@@ -1,0 +1,21 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"Team-Cream.com | 24/7 Upward | No Crit | Chicago"
+		"date"		"1452729375"
+		"addr"		"74.91.119.82:27015"
+	}
+	"server"
+	{
+		"name"		"[AU/NZ] Idle/Trade Server 24/7|RTD|Fast Respawn [Rushy Servers]"
+		"date"		"1453267123"
+		"addr"		"103.231.91.31:27015"
+	}
+	"server"
+	{
+		"name"		"The Trade Server"
+		"date"		"1453267153"
+		"addr"		"74.201.57.245:27015"
+	}
+}
